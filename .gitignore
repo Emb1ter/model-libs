@@ -1,0 +1,5 @@
+# Only track WASM files, ignore everything else
+*
+!*.wasm
+!.gitignore
+!.gitattributes
